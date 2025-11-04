@@ -1,0 +1,4 @@
+Pandas
+Pymongo
+Dotenv
+Jupyter
